@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Container, VStack, Text, Select, Box, Heading, SimpleGrid, Card, CardBody } from "@chakra-ui/react";
+import { Container, VStack, Text, Select, Heading, SimpleGrid, Card, CardBody } from "@chakra-ui/react";
 
 const jobs = [
   { id: 1, title: "Frontend Developer", category: "Engineering" },
